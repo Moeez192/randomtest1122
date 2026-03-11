@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Next.js 15 App',
-  description: 'Built with Tesslate Studio',
+  description: 'Built with Tesslate Studio Built with Tesslate Studio Ternali',
 }
 
 export default function RootLayout({
